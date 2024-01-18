@@ -23,7 +23,7 @@ data.forEach((item) => {
 		countryCode: item.CountryCode,
 		currencyName: item.Currency,
 		currencyCode: item.Code,
-		countryFlag: `http://purecatamphetamine.github.io/country-flag-icons/3x2/${item.CountryCode}.svg`,
+		countryFlag: `https://purecatamphetamine.github.io/country-flag-icons/3x2/${item.CountryCode}.svg`,
 	});
 });
 

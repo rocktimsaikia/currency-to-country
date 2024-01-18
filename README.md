@@ -32,35 +32,35 @@ Outputs:
     countryCode: 'NZ',
     currencyName: 'New Zealand Dollars',
     currencyCode: 'NZD',
-    countryFlag: 'http://purecatamphetamine.github.io/country-flag-icons/3x2/NZ.svg'
+    countryFlag: 'https://purecatamphetamine.github.io/country-flag-icons/3x2/NZ.svg'
   },
   {
     countryName: 'Cook Islands',
     countryCode: 'CK',
     currencyName: 'New Zealand Dollars',
     currencyCode: 'NZD',
-    countryFlag: 'http://purecatamphetamine.github.io/country-flag-icons/3x2/CK.svg'
+    countryFlag: 'https://purecatamphetamine.github.io/country-flag-icons/3x2/CK.svg'
   },
   {
     countryName: 'Niue',
     countryCode: 'NU',
     currencyName: 'New Zealand Dollars',
     currencyCode: 'NZD',
-    countryFlag: 'http://purecatamphetamine.github.io/country-flag-icons/3x2/NU.svg'
+    countryFlag: 'https://purecatamphetamine.github.io/country-flag-icons/3x2/NU.svg'
   },
   {
     countryName: 'Pitcairn',
     countryCode: 'PN',
     currencyName: 'New Zealand Dollars',
     currencyCode: 'NZD',
-    countryFlag: 'http://purecatamphetamine.github.io/country-flag-icons/3x2/PN.svg'
+    countryFlag: 'https://purecatamphetamine.github.io/country-flag-icons/3x2/PN.svg'
   },
   {
     countryName: 'Tokelau',
     countryCode: 'TK',
     currencyName: 'New Zealand Dollars',
     currencyCode: 'NZD',
-    countryFlag: 'http://purecatamphetamine.github.io/country-flag-icons/3x2/TK.svg'
+    countryFlag: 'https://purecatamphetamine.github.io/country-flag-icons/3x2/TK.svg'
   }
 ]
 ```
