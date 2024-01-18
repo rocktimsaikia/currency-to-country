@@ -714,18 +714,18 @@
 	],
 	"INR": [
 		{
-			"countryName": "Bhutan",
-			"countryCode": "BT",
-			"currencyName": "Indian Rupee",
-			"currencyCode": "INR",
-			"countryFlag": "https://purecatamphetamine.github.io/country-flag-icons/3x2/BT.svg"
-		},
-		{
 			"countryName": "India",
 			"countryCode": "IN",
 			"currencyName": "Indian Rupee",
 			"currencyCode": "INR",
 			"countryFlag": "https://purecatamphetamine.github.io/country-flag-icons/3x2/IN.svg"
+		},
+		{
+			"countryName": "Bhutan",
+			"countryCode": "BT",
+			"currencyName": "Indian Rupee",
+			"currencyCode": "INR",
+			"countryFlag": "https://purecatamphetamine.github.io/country-flag-icons/3x2/BT.svg"
 		}
 	],
 	"BOB": [
