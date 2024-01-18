@@ -1,0 +1,2071 @@
+{
+	"NZD": [
+		{
+			"countryName": "New Zealand",
+			"countryCode": "NZ",
+			"currencyName": "New Zealand Dollars",
+			"currencyCode": "NZD",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/NZ.svg"
+		},
+		{
+			"countryName": "Cook Islands",
+			"countryCode": "CK",
+			"currencyName": "New Zealand Dollars",
+			"currencyCode": "NZD",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/CK.svg"
+		},
+		{
+			"countryName": "Niue",
+			"countryCode": "NU",
+			"currencyName": "New Zealand Dollars",
+			"currencyCode": "NZD",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/NU.svg"
+		},
+		{
+			"countryName": "Pitcairn",
+			"countryCode": "PN",
+			"currencyName": "New Zealand Dollars",
+			"currencyCode": "NZD",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/PN.svg"
+		},
+		{
+			"countryName": "Tokelau",
+			"countryCode": "TK",
+			"currencyName": "New Zealand Dollars",
+			"currencyCode": "NZD",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/TK.svg"
+		}
+	],
+	"AUD": [
+		{
+			"countryName": "Australian",
+			"countryCode": "AU",
+			"currencyName": "Australian Dollars",
+			"currencyCode": "AUD",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/AU.svg"
+		},
+		{
+			"countryName": "Christmas Island",
+			"countryCode": "CX",
+			"currencyName": "Australian Dollars",
+			"currencyCode": "AUD",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/CX.svg"
+		},
+		{
+			"countryName": "Cocos (Keeling) Islands",
+			"countryCode": "CC",
+			"currencyName": "Australian Dollars",
+			"currencyCode": "AUD",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/CC.svg"
+		},
+		{
+			"countryName": "Heard and Mc Donald Islands",
+			"countryCode": "HM",
+			"currencyName": "Australian Dollars",
+			"currencyCode": "AUD",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/HM.svg"
+		},
+		{
+			"countryName": "Kiribati",
+			"countryCode": "KI",
+			"currencyName": "Australian Dollars",
+			"currencyCode": "AUD",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/KI.svg"
+		},
+		{
+			"countryName": "Nauru",
+			"countryCode": "NR",
+			"currencyName": "Australian Dollars",
+			"currencyCode": "AUD",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/NR.svg"
+		},
+		{
+			"countryName": "Norfolk Island",
+			"countryCode": "NF",
+			"currencyName": "Australian Dollars",
+			"currencyCode": "AUD",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/NF.svg"
+		},
+		{
+			"countryName": "Tuvalu",
+			"countryCode": "TV",
+			"currencyName": "Australian Dollars",
+			"currencyCode": "AUD",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/TV.svg"
+		}
+	],
+	"EUR": [
+		{
+			"countryName": "American Samoa",
+			"countryCode": "AS",
+			"currencyName": "Euros",
+			"currencyCode": "EUR",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/AS.svg"
+		},
+		{
+			"countryName": "Andorra",
+			"countryCode": "AD",
+			"currencyName": "Euros",
+			"currencyCode": "EUR",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/AD.svg"
+		},
+		{
+			"countryName": "Austria",
+			"countryCode": "AT",
+			"currencyName": "Euros",
+			"currencyCode": "EUR",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/AT.svg"
+		},
+		{
+			"countryName": "Belgium",
+			"countryCode": "BE",
+			"currencyName": "Euros",
+			"currencyCode": "EUR",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/BE.svg"
+		},
+		{
+			"countryName": "Finland",
+			"countryCode": "FI",
+			"currencyName": "Euros",
+			"currencyCode": "EUR",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/FI.svg"
+		},
+		{
+			"countryName": "France",
+			"countryCode": "FR",
+			"currencyName": "Euros",
+			"currencyCode": "EUR",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/FR.svg"
+		},
+		{
+			"countryName": "French Guiana",
+			"countryCode": "GF",
+			"currencyName": "Euros",
+			"currencyCode": "EUR",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/GF.svg"
+		},
+		{
+			"countryName": "French Southern Territories",
+			"countryCode": "TF",
+			"currencyName": "Euros",
+			"currencyCode": "EUR",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/TF.svg"
+		},
+		{
+			"countryName": "Germany",
+			"countryCode": "DE",
+			"currencyName": "Euros",
+			"currencyCode": "EUR",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/DE.svg"
+		},
+		{
+			"countryName": "Greece",
+			"countryCode": "GR",
+			"currencyName": "Euros",
+			"currencyCode": "EUR",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/GR.svg"
+		},
+		{
+			"countryName": "Guadeloupe",
+			"countryCode": "GP",
+			"currencyName": "Euros",
+			"currencyCode": "EUR",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/GP.svg"
+		},
+		{
+			"countryName": "Ireland",
+			"countryCode": "IE",
+			"currencyName": "Euros",
+			"currencyCode": "EUR",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/IE.svg"
+		},
+		{
+			"countryName": "Italy",
+			"countryCode": "IT",
+			"currencyName": "Euros",
+			"currencyCode": "EUR",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/IT.svg"
+		},
+		{
+			"countryName": "Luxembourg",
+			"countryCode": "LU",
+			"currencyName": "Euros",
+			"currencyCode": "EUR",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/LU.svg"
+		},
+		{
+			"countryName": "Martinique",
+			"countryCode": "MQ",
+			"currencyName": "Euros",
+			"currencyCode": "EUR",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/MQ.svg"
+		},
+		{
+			"countryName": "Mayotte",
+			"countryCode": "YT",
+			"currencyName": "Euros",
+			"currencyCode": "EUR",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/YT.svg"
+		},
+		{
+			"countryName": "Monaco",
+			"countryCode": "MC",
+			"currencyName": "Euros",
+			"currencyCode": "EUR",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/MC.svg"
+		},
+		{
+			"countryName": "Netherlands",
+			"countryCode": "NL",
+			"currencyName": "Euros",
+			"currencyCode": "EUR",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/NL.svg"
+		},
+		{
+			"countryName": "Portugal",
+			"countryCode": "PT",
+			"currencyName": "Euros",
+			"currencyCode": "EUR",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/PT.svg"
+		},
+		{
+			"countryName": "Reunion",
+			"countryCode": "RE",
+			"currencyName": "Euros",
+			"currencyCode": "EUR",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/RE.svg"
+		},
+		{
+			"countryName": "Samoa",
+			"countryCode": "WS",
+			"currencyName": "Euros",
+			"currencyCode": "EUR",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/WS.svg"
+		},
+		{
+			"countryName": "San Marino",
+			"countryCode": "SM",
+			"currencyName": "Euros",
+			"currencyCode": "EUR",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/SM.svg"
+		},
+		{
+			"countryName": "Slovenia",
+			"countryCode": "SI",
+			"currencyName": "Euros",
+			"currencyCode": "EUR",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/SI.svg"
+		},
+		{
+			"countryName": "Spain",
+			"countryCode": "ES",
+			"currencyName": "Euros",
+			"currencyCode": "EUR",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/ES.svg"
+		},
+		{
+			"countryName": "Vatican City State (Holy See)",
+			"countryCode": "VA",
+			"currencyName": "Euros",
+			"currencyCode": "EUR",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/VA.svg"
+		},
+		{
+			"countryName": "Aland Islands",
+			"countryCode": "AX",
+			"currencyName": "Euro",
+			"currencyCode": "EUR",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/AX.svg"
+		},
+		{
+			"countryName": "Montenegro",
+			"countryCode": "ME",
+			"currencyName": "Euro",
+			"currencyCode": "EUR",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/ME.svg"
+		},
+		{
+			"countryName": "Saint Barthelemy",
+			"countryCode": "BL",
+			"currencyName": "Euro",
+			"currencyCode": "EUR",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/BL.svg"
+		},
+		{
+			"countryName": "Saint Pierre and Miquelon",
+			"countryCode": "PM",
+			"currencyName": "Euro",
+			"currencyCode": "EUR",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/PM.svg"
+		}
+	],
+	"GBP": [
+		{
+			"countryName": "South Georgia and the South Sandwich Islands",
+			"countryCode": "GS",
+			"currencyName": "Sterling",
+			"currencyCode": "GBP",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/GS.svg"
+		},
+		{
+			"countryName": "United Kingdom",
+			"countryCode": "GB",
+			"currencyName": "Sterling",
+			"currencyCode": "GBP",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/GB.svg"
+		},
+		{
+			"countryName": "Jersey",
+			"countryCode": "JE",
+			"currencyName": "Sterling",
+			"currencyCode": "GBP",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/JE.svg"
+		},
+		{
+			"countryName": "Isle of Man",
+			"countryCode": "IM",
+			"currencyName": "Manx pound",
+			"currencyCode": "GBP",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/IM.svg"
+		},
+		{
+			"countryName": "Saint Helena",
+			"countryCode": "SH",
+			"currencyName": "Saint Helena pound",
+			"currencyCode": "GBP",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/SH.svg"
+		}
+	],
+	"USD": [
+		{
+			"countryName": "British Indian Ocean Territory",
+			"countryCode": "IO",
+			"currencyName": "USD",
+			"currencyCode": "USD",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/IO.svg"
+		},
+		{
+			"countryName": "Guam",
+			"countryCode": "GU",
+			"currencyName": "USD",
+			"currencyCode": "USD",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/GU.svg"
+		},
+		{
+			"countryName": "Marshall Islands",
+			"countryCode": "MH",
+			"currencyName": "USD",
+			"currencyCode": "USD",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/MH.svg"
+		},
+		{
+			"countryName": "Micronesia Federated States of",
+			"countryCode": "FM",
+			"currencyName": "USD",
+			"currencyCode": "USD",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/FM.svg"
+		},
+		{
+			"countryName": "Northern Mariana Islands",
+			"countryCode": "MP",
+			"currencyName": "USD",
+			"currencyCode": "USD",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/MP.svg"
+		},
+		{
+			"countryName": "Palau",
+			"countryCode": "PW",
+			"currencyName": "USD",
+			"currencyCode": "USD",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/PW.svg"
+		},
+		{
+			"countryName": "Puerto Rico",
+			"countryCode": "PR",
+			"currencyName": "USD",
+			"currencyCode": "USD",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/PR.svg"
+		},
+		{
+			"countryName": "Turks and Caicos Islands",
+			"countryCode": "TC",
+			"currencyName": "USD",
+			"currencyCode": "USD",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/TC.svg"
+		},
+		{
+			"countryName": "United States",
+			"countryCode": "US",
+			"currencyName": "USD",
+			"currencyCode": "USD",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/US.svg"
+		},
+		{
+			"countryName": "United States Minor Outlying Islands",
+			"countryCode": "UM",
+			"currencyName": "USD",
+			"currencyCode": "USD",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/UM.svg"
+		},
+		{
+			"countryName": "Virgin Islands (British)",
+			"countryCode": "VG",
+			"currencyName": "USD",
+			"currencyCode": "USD",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/VG.svg"
+		},
+		{
+			"countryName": "Virgin Islands (US)",
+			"countryCode": "VI",
+			"currencyName": "USD",
+			"currencyCode": "USD",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/VI.svg"
+		},
+		{
+			"countryName": "US Armed Forces",
+			"countryCode": "USAF",
+			"currencyName": "US Dollar",
+			"currencyCode": "USD",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/USAF.svg"
+		}
+	],
+	"HKD": [
+		{
+			"countryName": "Hong Kong",
+			"countryCode": "HK",
+			"currencyName": "HKD",
+			"currencyCode": "HKD",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/HK.svg"
+		}
+	],
+	"CAD": [
+		{
+			"countryName": "Canada",
+			"countryCode": "CA",
+			"currencyName": "Canadian Dollar",
+			"currencyCode": "CAD",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/CA.svg"
+		}
+	],
+	"JPY": [
+		{
+			"countryName": "Japan",
+			"countryCode": "JP",
+			"currencyName": "Japanese Yen",
+			"currencyCode": "JPY",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/JP.svg"
+		}
+	],
+	"AFN": [
+		{
+			"countryName": "Afghanistan",
+			"countryCode": "AF",
+			"currencyName": "Afghani",
+			"currencyCode": "AFN",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/AF.svg"
+		}
+	],
+	"ALL": [
+		{
+			"countryName": "Albania",
+			"countryCode": "AL",
+			"currencyName": "Lek",
+			"currencyCode": "ALL",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/AL.svg"
+		}
+	],
+	"DZD": [
+		{
+			"countryName": "Algeria",
+			"countryCode": "DZ",
+			"currencyName": "Algerian Dinar",
+			"currencyCode": "DZD",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/DZ.svg"
+		}
+	],
+	"XCD": [
+		{
+			"countryName": "Anguilla",
+			"countryCode": "AI",
+			"currencyName": "East Caribbean Dollar",
+			"currencyCode": "XCD",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/AI.svg"
+		},
+		{
+			"countryName": "Antigua and Barbuda",
+			"countryCode": "AG",
+			"currencyName": "East Caribbean Dollar",
+			"currencyCode": "XCD",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/AG.svg"
+		},
+		{
+			"countryName": "Dominica",
+			"countryCode": "DM",
+			"currencyName": "East Caribbean Dollar",
+			"currencyCode": "XCD",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/DM.svg"
+		},
+		{
+			"countryName": "Grenada",
+			"countryCode": "GD",
+			"currencyName": "East Caribbean Dollar",
+			"currencyCode": "XCD",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/GD.svg"
+		},
+		{
+			"countryName": "Montserrat",
+			"countryCode": "MS",
+			"currencyName": "East Caribbean Dollar",
+			"currencyCode": "XCD",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/MS.svg"
+		},
+		{
+			"countryName": "Saint Kitts",
+			"countryCode": "KN",
+			"currencyName": "East Caribbean Dollar",
+			"currencyCode": "XCD",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/KN.svg"
+		},
+		{
+			"countryName": "Saint Lucia",
+			"countryCode": "LC",
+			"currencyName": "East Caribbean Dollar",
+			"currencyCode": "XCD",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/LC.svg"
+		},
+		{
+			"countryName": "Saint Vincent Grenadines",
+			"countryCode": "VC",
+			"currencyName": "East Caribbean Dollar",
+			"currencyCode": "XCD",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/VC.svg"
+		}
+	],
+	"ARS": [
+		{
+			"countryName": "Argentina",
+			"countryCode": "AR",
+			"currencyName": "Peso",
+			"currencyCode": "ARS",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/AR.svg"
+		}
+	],
+	"AMD": [
+		{
+			"countryName": "Armenia",
+			"countryCode": "AM",
+			"currencyName": "Dram",
+			"currencyCode": "AMD",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/AM.svg"
+		}
+	],
+	"ANG": [
+		{
+			"countryName": "Aruba",
+			"countryCode": "AW",
+			"currencyName": "Netherlands Antilles Guilder",
+			"currencyCode": "ANG",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/AW.svg"
+		},
+		{
+			"countryName": "Netherlands Antilles",
+			"countryCode": "AN",
+			"currencyName": "Netherlands Antilles Guilder",
+			"currencyCode": "ANG",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/AN.svg"
+		},
+		{
+			"countryName": "Saint Martin (French part)",
+			"countryCode": "MF",
+			"currencyName": "Netherlands Antillean guilder",
+			"currencyCode": "ANG",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/MF.svg"
+		}
+	],
+	"AZN": [
+		{
+			"countryName": "Azerbaijan",
+			"countryCode": "AZ",
+			"currencyName": "Manat",
+			"currencyCode": "AZN",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/AZ.svg"
+		}
+	],
+	"BSD": [
+		{
+			"countryName": "Bahamas",
+			"countryCode": "BS",
+			"currencyName": "Bahamian Dollar",
+			"currencyCode": "BSD",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/BS.svg"
+		}
+	],
+	"BHD": [
+		{
+			"countryName": "Bahrain",
+			"countryCode": "BH",
+			"currencyName": "Bahraini Dinar",
+			"currencyCode": "BHD",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/BH.svg"
+		}
+	],
+	"BDT": [
+		{
+			"countryName": "Bangladesh",
+			"countryCode": "BD",
+			"currencyName": "Taka",
+			"currencyCode": "BDT",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/BD.svg"
+		}
+	],
+	"BBD": [
+		{
+			"countryName": "Barbados",
+			"countryCode": "BB",
+			"currencyName": "Barbadian Dollar",
+			"currencyCode": "BBD",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/BB.svg"
+		}
+	],
+	"BYR": [
+		{
+			"countryName": "Belarus",
+			"countryCode": "BY",
+			"currencyName": "Belarus Ruble",
+			"currencyCode": "BYR",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/BY.svg"
+		}
+	],
+	"BZD": [
+		{
+			"countryName": "Belize",
+			"countryCode": "BZ",
+			"currencyName": "Belizean Dollar",
+			"currencyCode": "BZD",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/BZ.svg"
+		}
+	],
+	"XOF": [
+		{
+			"countryName": "Benin",
+			"countryCode": "BJ",
+			"currencyName": "CFA Franc BCEAO",
+			"currencyCode": "XOF",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/BJ.svg"
+		},
+		{
+			"countryName": "Burkina Faso",
+			"countryCode": "BF",
+			"currencyName": "CFA Franc BCEAO",
+			"currencyCode": "XOF",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/BF.svg"
+		},
+		{
+			"countryName": "Guinea-Bissau",
+			"countryCode": "GW",
+			"currencyName": "CFA Franc BCEAO",
+			"currencyCode": "XOF",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/GW.svg"
+		},
+		{
+			"countryName": "Ivory Coast",
+			"countryCode": "CI",
+			"currencyName": "CFA Franc BCEAO",
+			"currencyCode": "XOF",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/CI.svg"
+		},
+		{
+			"countryName": "Mali",
+			"countryCode": "ML",
+			"currencyName": "CFA Franc BCEAO",
+			"currencyCode": "XOF",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/ML.svg"
+		},
+		{
+			"countryName": "Niger",
+			"countryCode": "NE",
+			"currencyName": "CFA Franc BCEAO",
+			"currencyCode": "XOF",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/NE.svg"
+		},
+		{
+			"countryName": "Senegal",
+			"countryCode": "SN",
+			"currencyName": "CFA Franc BCEAO",
+			"currencyCode": "XOF",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/SN.svg"
+		},
+		{
+			"countryName": "Togo",
+			"countryCode": "TG",
+			"currencyName": "CFA Franc BCEAO",
+			"currencyCode": "XOF",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/TG.svg"
+		}
+	],
+	"BMD": [
+		{
+			"countryName": "Bermuda",
+			"countryCode": "BM",
+			"currencyName": "Bermudian Dollar",
+			"currencyCode": "BMD",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/BM.svg"
+		}
+	],
+	"INR": [
+		{
+			"countryName": "Bhutan",
+			"countryCode": "BT",
+			"currencyName": "Indian Rupee",
+			"currencyCode": "INR",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/BT.svg"
+		},
+		{
+			"countryName": "India",
+			"countryCode": "IN",
+			"currencyName": "Indian Rupee",
+			"currencyCode": "INR",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/IN.svg"
+		}
+	],
+	"BOB": [
+		{
+			"countryName": "Bolivia",
+			"countryCode": "BO",
+			"currencyName": "Boliviano",
+			"currencyCode": "BOB",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/BO.svg"
+		}
+	],
+	"BWP": [
+		{
+			"countryName": "Botswana",
+			"countryCode": "BW",
+			"currencyName": "Pula",
+			"currencyCode": "BWP",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/BW.svg"
+		}
+	],
+	"NOK": [
+		{
+			"countryName": "Bouvet Island",
+			"countryCode": "BV",
+			"currencyName": "Norwegian Krone",
+			"currencyCode": "NOK",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/BV.svg"
+		},
+		{
+			"countryName": "Norway",
+			"countryCode": "NO",
+			"currencyName": "Norwegian Krone",
+			"currencyCode": "NOK",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/NO.svg"
+		},
+		{
+			"countryName": "Svalbard and Jan Mayen Islands",
+			"countryCode": "SJ",
+			"currencyName": "Norwegian Krone",
+			"currencyCode": "NOK",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/SJ.svg"
+		}
+	],
+	"BRL": [
+		{
+			"countryName": "Brazil",
+			"countryCode": "BR",
+			"currencyName": "Brazil",
+			"currencyCode": "BRL",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/BR.svg"
+		}
+	],
+	"BND": [
+		{
+			"countryName": "Brunei Darussalam",
+			"countryCode": "BN",
+			"currencyName": "Bruneian Dollar",
+			"currencyCode": "BND",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/BN.svg"
+		}
+	],
+	"BGN": [
+		{
+			"countryName": "Bulgaria",
+			"countryCode": "BG",
+			"currencyName": "Lev",
+			"currencyCode": "BGN",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/BG.svg"
+		}
+	],
+	"BIF": [
+		{
+			"countryName": "Burundi",
+			"countryCode": "BI",
+			"currencyName": "Burundi Franc",
+			"currencyCode": "BIF",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/BI.svg"
+		}
+	],
+	"KHR": [
+		{
+			"countryName": "Cambodia",
+			"countryCode": "KH",
+			"currencyName": "Riel",
+			"currencyCode": "KHR",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/KH.svg"
+		}
+	],
+	"XAF": [
+		{
+			"countryName": "Cameroon",
+			"countryCode": "CM",
+			"currencyName": "CFA Franc BEAC",
+			"currencyCode": "XAF",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/CM.svg"
+		},
+		{
+			"countryName": "Central African Republic",
+			"countryCode": "CF",
+			"currencyName": "CFA Franc BEAC",
+			"currencyCode": "XAF",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/CF.svg"
+		},
+		{
+			"countryName": "Chad",
+			"countryCode": "TD",
+			"currencyName": "CFA Franc BEAC",
+			"currencyCode": "XAF",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/TD.svg"
+		},
+		{
+			"countryName": "Congo Republic of the Democratic",
+			"countryCode": "CG",
+			"currencyName": "CFA Franc BEAC",
+			"currencyCode": "XAF",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/CG.svg"
+		},
+		{
+			"countryName": "Equatorial Guinea",
+			"countryCode": "GQ",
+			"currencyName": "CFA Franc BEAC",
+			"currencyCode": "XAF",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/GQ.svg"
+		},
+		{
+			"countryName": "Gabon",
+			"countryCode": "GA",
+			"currencyName": "CFA Franc BEAC",
+			"currencyCode": "XAF",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/GA.svg"
+		}
+	],
+	"CVE": [
+		{
+			"countryName": "Cape Verde",
+			"countryCode": "CV",
+			"currencyName": "Escudo",
+			"currencyCode": "CVE",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/CV.svg"
+		}
+	],
+	"KYD": [
+		{
+			"countryName": "Cayman Islands",
+			"countryCode": "KY",
+			"currencyName": "Caymanian Dollar",
+			"currencyCode": "KYD",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/KY.svg"
+		}
+	],
+	"CLP": [
+		{
+			"countryName": "Chile",
+			"countryCode": "CL",
+			"currencyName": "Chilean Peso",
+			"currencyCode": "CLP",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/CL.svg"
+		}
+	],
+	"CNY": [
+		{
+			"countryName": "China",
+			"countryCode": "CN",
+			"currencyName": "Yuan Renminbi",
+			"currencyCode": "CNY",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/CN.svg"
+		}
+	],
+	"COP": [
+		{
+			"countryName": "Colombia",
+			"countryCode": "CO",
+			"currencyName": "Peso",
+			"currencyCode": "COP",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/CO.svg"
+		}
+	],
+	"KMF": [
+		{
+			"countryName": "Comoros",
+			"countryCode": "KM",
+			"currencyName": "Comoran Franc",
+			"currencyCode": "KMF",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/KM.svg"
+		}
+	],
+	"CDF": [
+		{
+			"countryName": "Congo-Brazzaville",
+			"countryCode": "CD",
+			"currencyName": "Congolese Frank",
+			"currencyCode": "CDF",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/CD.svg"
+		},
+		{
+			"countryName": "Congo (Kinshasa)",
+			"countryCode": "CD",
+			"currencyName": "Congolese Frank",
+			"currencyCode": "CDF",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/CD.svg"
+		}
+	],
+	"CRC": [
+		{
+			"countryName": "Costa Rica",
+			"countryCode": "CR",
+			"currencyName": "Costa Rican Colon",
+			"currencyCode": "CRC",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/CR.svg"
+		}
+	],
+	"HRK": [
+		{
+			"countryName": "Croatia (Hrvatska)",
+			"countryCode": "HR",
+			"currencyName": "Croatian Dinar",
+			"currencyCode": "HRK",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/HR.svg"
+		}
+	],
+	"CUP": [
+		{
+			"countryName": "Cuba",
+			"countryCode": "CU",
+			"currencyName": "Cuban Peso",
+			"currencyCode": "CUP",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/CU.svg"
+		}
+	],
+	"CYP": [
+		{
+			"countryName": "Cyprus",
+			"countryCode": "CY",
+			"currencyName": "Cypriot Pound",
+			"currencyCode": "CYP",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/CY.svg"
+		}
+	],
+	"CZK": [
+		{
+			"countryName": "Czech Republic",
+			"countryCode": "CZ",
+			"currencyName": "Koruna",
+			"currencyCode": "CZK",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/CZ.svg"
+		}
+	],
+	"DKK": [
+		{
+			"countryName": "Denmark",
+			"countryCode": "DK",
+			"currencyName": "Danish Krone",
+			"currencyCode": "DKK",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/DK.svg"
+		},
+		{
+			"countryName": "Faroe Islands",
+			"countryCode": "FO",
+			"currencyName": "Danish Krone",
+			"currencyCode": "DKK",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/FO.svg"
+		},
+		{
+			"countryName": "Greenland",
+			"countryCode": "GL",
+			"currencyName": "Danish Krone",
+			"currencyCode": "DKK",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/GL.svg"
+		}
+	],
+	"DJF": [
+		{
+			"countryName": "Djibouti",
+			"countryCode": "DJ",
+			"currencyName": "Djiboutian Franc",
+			"currencyCode": "DJF",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/DJ.svg"
+		}
+	],
+	"DOP": [
+		{
+			"countryName": "Dominican Republic",
+			"countryCode": "DO",
+			"currencyName": "Dominican Peso",
+			"currencyCode": "DOP",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/DO.svg"
+		}
+	],
+	"IDR": [
+		{
+			"countryName": "East Timor",
+			"countryCode": "TP",
+			"currencyName": "Indonesian Rupiah",
+			"currencyCode": "IDR",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/TP.svg"
+		},
+		{
+			"countryName": "Indonesia",
+			"countryCode": "ID",
+			"currencyName": "Indonesian Rupiah",
+			"currencyCode": "IDR",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/ID.svg"
+		}
+	],
+	"ECS": [
+		{
+			"countryName": "Ecuador",
+			"countryCode": "EC",
+			"currencyName": "Sucre",
+			"currencyCode": "ECS",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/EC.svg"
+		}
+	],
+	"EGP": [
+		{
+			"countryName": "Egypt",
+			"countryCode": "EG",
+			"currencyName": "Egyptian Pound",
+			"currencyCode": "EGP",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/EG.svg"
+		}
+	],
+	"SVC": [
+		{
+			"countryName": "El Salvador",
+			"countryCode": "SV",
+			"currencyName": "Salvadoran Colon",
+			"currencyCode": "SVC",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/SV.svg"
+		}
+	],
+	"ETB": [
+		{
+			"countryName": "Eritrea",
+			"countryCode": "ER",
+			"currencyName": "Ethiopian Birr",
+			"currencyCode": "ETB",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/ER.svg"
+		},
+		{
+			"countryName": "Ethiopia",
+			"countryCode": "ET",
+			"currencyName": "Ethiopian Birr",
+			"currencyCode": "ETB",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/ET.svg"
+		}
+	],
+	"EEK": [
+		{
+			"countryName": "Estonia",
+			"countryCode": "EE",
+			"currencyName": "Estonian Kroon",
+			"currencyCode": "EEK",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/EE.svg"
+		}
+	],
+	"FKP": [
+		{
+			"countryName": "Falkland Islands (Malvinas)",
+			"countryCode": "FK",
+			"currencyName": "Falkland Pound",
+			"currencyCode": "FKP",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/FK.svg"
+		}
+	],
+	"FJD": [
+		{
+			"countryName": "Fiji",
+			"countryCode": "FJ",
+			"currencyName": "Fijian Dollar",
+			"currencyCode": "FJD",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/FJ.svg"
+		}
+	],
+	"XPF": [
+		{
+			"countryName": "French Polynesia",
+			"countryCode": "PF",
+			"currencyName": "CFP Franc",
+			"currencyCode": "XPF",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/PF.svg"
+		},
+		{
+			"countryName": "New Caledonia",
+			"countryCode": "NC",
+			"currencyName": "CFP Franc",
+			"currencyCode": "XPF",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/NC.svg"
+		},
+		{
+			"countryName": "Wallis and Futuna Islands",
+			"countryCode": "WF",
+			"currencyName": "CFP Franc",
+			"currencyCode": "XPF",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/WF.svg"
+		}
+	],
+	"GMD": [
+		{
+			"countryName": "Gambia",
+			"countryCode": "GM",
+			"currencyName": "Dalasi",
+			"currencyCode": "GMD",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/GM.svg"
+		}
+	],
+	"GEL": [
+		{
+			"countryName": "Georgia",
+			"countryCode": "GE",
+			"currencyName": "Lari",
+			"currencyCode": "GEL",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/GE.svg"
+		}
+	],
+	"GIP": [
+		{
+			"countryName": "Gibraltar",
+			"countryCode": "GI",
+			"currencyName": "Gibraltar Pound",
+			"currencyCode": "GIP",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/GI.svg"
+		}
+	],
+	"GTQ": [
+		{
+			"countryName": "Guatemala",
+			"countryCode": "GT",
+			"currencyName": "Quetzal",
+			"currencyCode": "GTQ",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/GT.svg"
+		}
+	],
+	"GNF": [
+		{
+			"countryName": "Guinea",
+			"countryCode": "GN",
+			"currencyName": "Guinean Franc",
+			"currencyCode": "GNF",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/GN.svg"
+		}
+	],
+	"GYD": [
+		{
+			"countryName": "Guyana",
+			"countryCode": "GY",
+			"currencyName": "Guyanaese Dollar",
+			"currencyCode": "GYD",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/GY.svg"
+		}
+	],
+	"HTG": [
+		{
+			"countryName": "Haiti",
+			"countryCode": "HT",
+			"currencyName": "Gourde",
+			"currencyCode": "HTG",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/HT.svg"
+		}
+	],
+	"HNL": [
+		{
+			"countryName": "Honduras",
+			"countryCode": "HN",
+			"currencyName": "Lempira",
+			"currencyCode": "HNL",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/HN.svg"
+		}
+	],
+	"HUF": [
+		{
+			"countryName": "Hungary",
+			"countryCode": "HU",
+			"currencyName": "Forint",
+			"currencyCode": "HUF",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/HU.svg"
+		}
+	],
+	"ISK": [
+		{
+			"countryName": "Iceland",
+			"countryCode": "IS",
+			"currencyName": "Icelandic Krona",
+			"currencyCode": "ISK",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/IS.svg"
+		}
+	],
+	"IRR": [
+		{
+			"countryName": "Iran (Islamic Republic of)",
+			"countryCode": "IR",
+			"currencyName": "Iranian Rial",
+			"currencyCode": "IRR",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/IR.svg"
+		}
+	],
+	"IQD": [
+		{
+			"countryName": "Iraq",
+			"countryCode": "IQ",
+			"currencyName": "Iraqi Dinar",
+			"currencyCode": "IQD",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/IQ.svg"
+		}
+	],
+	"ILS": [
+		{
+			"countryName": "Israel",
+			"countryCode": "IL",
+			"currencyName": "Shekel",
+			"currencyCode": "ILS",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/IL.svg"
+		}
+	],
+	"JMD": [
+		{
+			"countryName": "Jamaica",
+			"countryCode": "JM",
+			"currencyName": "Jamaican Dollar",
+			"currencyCode": "JMD",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/JM.svg"
+		}
+	],
+	"JOD": [
+		{
+			"countryName": "Jordan",
+			"countryCode": "JO",
+			"currencyName": "Jordanian Dinar",
+			"currencyCode": "JOD",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/JO.svg"
+		},
+		{
+			"countryName": "Palestinian Territory",
+			"countryCode": "PS",
+			"currencyName": "Jordanian dinar",
+			"currencyCode": "JOD",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/PS.svg"
+		}
+	],
+	"KZT": [
+		{
+			"countryName": "Kazakhstan",
+			"countryCode": "KZ",
+			"currencyName": "Tenge",
+			"currencyCode": "KZT",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/KZ.svg"
+		}
+	],
+	"KES": [
+		{
+			"countryName": "Kenya",
+			"countryCode": "KE",
+			"currencyName": "Kenyan Shilling",
+			"currencyCode": "KES",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/KE.svg"
+		}
+	],
+	"KPW": [
+		{
+			"countryName": "Korea North",
+			"countryCode": "KP",
+			"currencyName": "Won",
+			"currencyCode": "KPW",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/KP.svg"
+		}
+	],
+	"KRW": [
+		{
+			"countryName": "Korea South",
+			"countryCode": "KR",
+			"currencyName": "Won",
+			"currencyCode": "KRW",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/KR.svg"
+		}
+	],
+	"KWD": [
+		{
+			"countryName": "Kuwait",
+			"countryCode": "KW",
+			"currencyName": "Kuwaiti Dinar",
+			"currencyCode": "KWD",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/KW.svg"
+		}
+	],
+	"KGS": [
+		{
+			"countryName": "Kyrgyzstan",
+			"countryCode": "KG",
+			"currencyName": "Som",
+			"currencyCode": "KGS",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/KG.svg"
+		}
+	],
+	"LAK": [
+		{
+			"countryName": "Lao PeopleÕs Democratic Republic",
+			"countryCode": "LA",
+			"currencyName": "Kip",
+			"currencyCode": "LAK",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/LA.svg"
+		},
+		{
+			"countryName": "Laos",
+			"countryCode": "LA",
+			"currencyName": "Lao kip",
+			"currencyCode": "LAK",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/LA.svg"
+		}
+	],
+	"LVL": [
+		{
+			"countryName": "Latvia",
+			"countryCode": "LV",
+			"currencyName": "Lat",
+			"currencyCode": "LVL",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/LV.svg"
+		}
+	],
+	"LBP": [
+		{
+			"countryName": "Lebanon",
+			"countryCode": "LB",
+			"currencyName": "Lebanese Pound",
+			"currencyCode": "LBP",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/LB.svg"
+		}
+	],
+	"LSL": [
+		{
+			"countryName": "Lesotho",
+			"countryCode": "LS",
+			"currencyName": "Loti",
+			"currencyCode": "LSL",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/LS.svg"
+		}
+	],
+	"LRD": [
+		{
+			"countryName": "Liberia",
+			"countryCode": "LR",
+			"currencyName": "Liberian Dollar",
+			"currencyCode": "LRD",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/LR.svg"
+		}
+	],
+	"LYD": [
+		{
+			"countryName": "Libyan Arab Jamahiriya",
+			"countryCode": "LY",
+			"currencyName": "Libyan Dinar",
+			"currencyCode": "LYD",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/LY.svg"
+		}
+	],
+	"CHF": [
+		{
+			"countryName": "Liechtenstein",
+			"countryCode": "LI",
+			"currencyName": "Swiss Franc",
+			"currencyCode": "CHF",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/LI.svg"
+		},
+		{
+			"countryName": "Switzerland",
+			"countryCode": "CH",
+			"currencyName": "Swiss Franc",
+			"currencyCode": "CHF",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/CH.svg"
+		}
+	],
+	"LTL": [
+		{
+			"countryName": "Lithuania",
+			"countryCode": "LT",
+			"currencyName": "Lita",
+			"currencyCode": "LTL",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/LT.svg"
+		}
+	],
+	"MOP": [
+		{
+			"countryName": "Macau",
+			"countryCode": "MO",
+			"currencyName": "Pataca",
+			"currencyCode": "MOP",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/MO.svg"
+		},
+		{
+			"countryName": "Macao S.A.R.",
+			"countryCode": "MO",
+			"currencyName": "Macanese pataca",
+			"currencyCode": "MOP",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/MO.svg"
+		}
+	],
+	"MKD": [
+		{
+			"countryName": "Macedonia",
+			"countryCode": "MK",
+			"currencyName": "Denar",
+			"currencyCode": "MKD",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/MK.svg"
+		}
+	],
+	"MGA": [
+		{
+			"countryName": "Madagascar",
+			"countryCode": "MG",
+			"currencyName": "Malagasy Franc",
+			"currencyCode": "MGA",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/MG.svg"
+		}
+	],
+	"MWK": [
+		{
+			"countryName": "Malawi",
+			"countryCode": "MW",
+			"currencyName": "Malawian Kwacha",
+			"currencyCode": "MWK",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/MW.svg"
+		}
+	],
+	"MYR": [
+		{
+			"countryName": "Malaysia",
+			"countryCode": "MY",
+			"currencyName": "Ringgit",
+			"currencyCode": "MYR",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/MY.svg"
+		}
+	],
+	"MVR": [
+		{
+			"countryName": "Maldives",
+			"countryCode": "MV",
+			"currencyName": "Rufiyaa",
+			"currencyCode": "MVR",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/MV.svg"
+		}
+	],
+	"MTL": [
+		{
+			"countryName": "Malta",
+			"countryCode": "MT",
+			"currencyName": "Maltese Lira",
+			"currencyCode": "MTL",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/MT.svg"
+		}
+	],
+	"MRO": [
+		{
+			"countryName": "Mauritania",
+			"countryCode": "MR",
+			"currencyName": "Ouguiya",
+			"currencyCode": "MRO",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/MR.svg"
+		}
+	],
+	"MUR": [
+		{
+			"countryName": "Mauritius",
+			"countryCode": "MU",
+			"currencyName": "Mauritian Rupee",
+			"currencyCode": "MUR",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/MU.svg"
+		}
+	],
+	"MXN": [
+		{
+			"countryName": "Mexico",
+			"countryCode": "MX",
+			"currencyName": "Peso",
+			"currencyCode": "MXN",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/MX.svg"
+		}
+	],
+	"MDL": [
+		{
+			"countryName": "Moldova Republic of",
+			"countryCode": "MD",
+			"currencyName": "Leu",
+			"currencyCode": "MDL",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/MD.svg"
+		}
+	],
+	"MNT": [
+		{
+			"countryName": "Mongolia",
+			"countryCode": "MN",
+			"currencyName": "Tugrik",
+			"currencyCode": "MNT",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/MN.svg"
+		}
+	],
+	"MAD": [
+		{
+			"countryName": "Morocco",
+			"countryCode": "MA",
+			"currencyName": "Dirham",
+			"currencyCode": "MAD",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/MA.svg"
+		},
+		{
+			"countryName": "Western Sahara",
+			"countryCode": "EH",
+			"currencyName": "Dirham",
+			"currencyCode": "MAD",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/EH.svg"
+		}
+	],
+	"MZN": [
+		{
+			"countryName": "Mozambique",
+			"countryCode": "MZ",
+			"currencyName": "Metical",
+			"currencyCode": "MZN",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/MZ.svg"
+		}
+	],
+	"MMK": [
+		{
+			"countryName": "Myanmar",
+			"countryCode": "MM",
+			"currencyName": "Kyat",
+			"currencyCode": "MMK",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/MM.svg"
+		}
+	],
+	"NAD": [
+		{
+			"countryName": "Namibia",
+			"countryCode": "NA",
+			"currencyName": "Dollar",
+			"currencyCode": "NAD",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/NA.svg"
+		}
+	],
+	"NPR": [
+		{
+			"countryName": "Nepal",
+			"countryCode": "NP",
+			"currencyName": "Nepalese Rupee",
+			"currencyCode": "NPR",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/NP.svg"
+		}
+	],
+	"NIO": [
+		{
+			"countryName": "Nicaragua",
+			"countryCode": "NI",
+			"currencyName": "Cordoba Oro",
+			"currencyCode": "NIO",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/NI.svg"
+		}
+	],
+	"NGN": [
+		{
+			"countryName": "Nigeria",
+			"countryCode": "NG",
+			"currencyName": "Naira",
+			"currencyCode": "NGN",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/NG.svg"
+		}
+	],
+	"OMR": [
+		{
+			"countryName": "Oman",
+			"countryCode": "OM",
+			"currencyName": "Sul Rial",
+			"currencyCode": "OMR",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/OM.svg"
+		}
+	],
+	"PKR": [
+		{
+			"countryName": "Pakistan",
+			"countryCode": "PK",
+			"currencyName": "Rupee",
+			"currencyCode": "PKR",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/PK.svg"
+		}
+	],
+	"PAB": [
+		{
+			"countryName": "Panama",
+			"countryCode": "PA",
+			"currencyName": "Balboa",
+			"currencyCode": "PAB",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/PA.svg"
+		}
+	],
+	"PGK": [
+		{
+			"countryName": "Papua New Guinea",
+			"countryCode": "PG",
+			"currencyName": "Kina",
+			"currencyCode": "PGK",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/PG.svg"
+		}
+	],
+	"PYG": [
+		{
+			"countryName": "Paraguay",
+			"countryCode": "PY",
+			"currencyName": "Guarani",
+			"currencyCode": "PYG",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/PY.svg"
+		}
+	],
+	"PEN": [
+		{
+			"countryName": "Peru",
+			"countryCode": "PE",
+			"currencyName": "Nuevo Sol",
+			"currencyCode": "PEN",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/PE.svg"
+		}
+	],
+	"PHP": [
+		{
+			"countryName": "Philippines",
+			"countryCode": "PH",
+			"currencyName": "Peso",
+			"currencyCode": "PHP",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/PH.svg"
+		}
+	],
+	"PLN": [
+		{
+			"countryName": "Poland",
+			"countryCode": "PL",
+			"currencyName": "Zloty",
+			"currencyCode": "PLN",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/PL.svg"
+		}
+	],
+	"QAR": [
+		{
+			"countryName": "Qatar",
+			"countryCode": "QA",
+			"currencyName": "Rial",
+			"currencyCode": "QAR",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/QA.svg"
+		}
+	],
+	"RON": [
+		{
+			"countryName": "Romania",
+			"countryCode": "RO",
+			"currencyName": "Leu",
+			"currencyCode": "RON",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/RO.svg"
+		}
+	],
+	"RUB": [
+		{
+			"countryName": "Russian Federation",
+			"countryCode": "RU",
+			"currencyName": "Ruble",
+			"currencyCode": "RUB",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/RU.svg"
+		}
+	],
+	"RWF": [
+		{
+			"countryName": "Rwanda",
+			"countryCode": "RW",
+			"currencyName": "Rwanda Franc",
+			"currencyCode": "RWF",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/RW.svg"
+		}
+	],
+	"STD": [
+		{
+			"countryName": "Sao Tome and Principe",
+			"countryCode": "ST",
+			"currencyName": "Dobra",
+			"currencyCode": "STD",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/ST.svg"
+		}
+	],
+	"SAR": [
+		{
+			"countryName": "Saudi Arabia",
+			"countryCode": "SA",
+			"currencyName": "Riyal",
+			"currencyCode": "SAR",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/SA.svg"
+		}
+	],
+	"SCR": [
+		{
+			"countryName": "Seychelles",
+			"countryCode": "SC",
+			"currencyName": "Rupee",
+			"currencyCode": "SCR",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/SC.svg"
+		}
+	],
+	"SLL": [
+		{
+			"countryName": "Sierra Leone",
+			"countryCode": "SL",
+			"currencyName": "Leone",
+			"currencyCode": "SLL",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/SL.svg"
+		}
+	],
+	"SGD": [
+		{
+			"countryName": "Singapore",
+			"countryCode": "SG",
+			"currencyName": "Dollar",
+			"currencyCode": "SGD",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/SG.svg"
+		}
+	],
+	"SKK": [
+		{
+			"countryName": "Slovakia (Slovak Republic)",
+			"countryCode": "SK",
+			"currencyName": "Koruna",
+			"currencyCode": "SKK",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/SK.svg"
+		}
+	],
+	"SBD": [
+		{
+			"countryName": "Solomon Islands",
+			"countryCode": "SB",
+			"currencyName": "Solomon Islands Dollar",
+			"currencyCode": "SBD",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/SB.svg"
+		}
+	],
+	"SOS": [
+		{
+			"countryName": "Somalia",
+			"countryCode": "SO",
+			"currencyName": "Shilling",
+			"currencyCode": "SOS",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/SO.svg"
+		}
+	],
+	"ZAR": [
+		{
+			"countryName": "South Africa",
+			"countryCode": "ZA",
+			"currencyName": "Rand",
+			"currencyCode": "ZAR",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/ZA.svg"
+		}
+	],
+	"LKR": [
+		{
+			"countryName": "Sri Lanka",
+			"countryCode": "LK",
+			"currencyName": "Rupee",
+			"currencyCode": "LKR",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/LK.svg"
+		}
+	],
+	"SDG": [
+		{
+			"countryName": "Sudan",
+			"countryCode": "SD",
+			"currencyName": "Dinar",
+			"currencyCode": "SDG",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/SD.svg"
+		}
+	],
+	"SRD": [
+		{
+			"countryName": "Suriname",
+			"countryCode": "SR",
+			"currencyName": "Surinamese Guilder",
+			"currencyCode": "SRD",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/SR.svg"
+		}
+	],
+	"SZL": [
+		{
+			"countryName": "Swaziland",
+			"countryCode": "SZ",
+			"currencyName": "Lilangeni",
+			"currencyCode": "SZL",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/SZ.svg"
+		}
+	],
+	"SEK": [
+		{
+			"countryName": "Sweden",
+			"countryCode": "SE",
+			"currencyName": "Krona",
+			"currencyCode": "SEK",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/SE.svg"
+		}
+	],
+	"SYP": [
+		{
+			"countryName": "Syrian Arab Republic",
+			"countryCode": "SY",
+			"currencyName": "Syrian Pound",
+			"currencyCode": "SYP",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/SY.svg"
+		}
+	],
+	"TWD": [
+		{
+			"countryName": "Taiwan",
+			"countryCode": "TW",
+			"currencyName": "Dollar",
+			"currencyCode": "TWD",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/TW.svg"
+		}
+	],
+	"TJS": [
+		{
+			"countryName": "Tajikistan",
+			"countryCode": "TJ",
+			"currencyName": "Tajikistan Ruble",
+			"currencyCode": "TJS",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/TJ.svg"
+		}
+	],
+	"TZS": [
+		{
+			"countryName": "Tanzania",
+			"countryCode": "TZ",
+			"currencyName": "Shilling",
+			"currencyCode": "TZS",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/TZ.svg"
+		}
+	],
+	"THB": [
+		{
+			"countryName": "Thailand",
+			"countryCode": "TH",
+			"currencyName": "Baht",
+			"currencyCode": "THB",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/TH.svg"
+		}
+	],
+	"TOP": [
+		{
+			"countryName": "Tonga",
+			"countryCode": "TO",
+			"currencyName": "PaÕanga",
+			"currencyCode": "TOP",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/TO.svg"
+		}
+	],
+	"TTD": [
+		{
+			"countryName": "Trinidad and Tobago",
+			"countryCode": "TT",
+			"currencyName": "Trinidad and Tobago Dollar",
+			"currencyCode": "TTD",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/TT.svg"
+		}
+	],
+	"TND": [
+		{
+			"countryName": "Tunisia",
+			"countryCode": "TN",
+			"currencyName": "Tunisian Dinar",
+			"currencyCode": "TND",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/TN.svg"
+		}
+	],
+	"TRY": [
+		{
+			"countryName": "Turkey",
+			"countryCode": "TR",
+			"currencyName": "Lira",
+			"currencyCode": "TRY",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/TR.svg"
+		}
+	],
+	"TMT": [
+		{
+			"countryName": "Turkmenistan",
+			"countryCode": "TM",
+			"currencyName": "Manat",
+			"currencyCode": "TMT",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/TM.svg"
+		}
+	],
+	"UGX": [
+		{
+			"countryName": "Uganda",
+			"countryCode": "UG",
+			"currencyName": "Shilling",
+			"currencyCode": "UGX",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/UG.svg"
+		}
+	],
+	"UAH": [
+		{
+			"countryName": "Ukraine",
+			"countryCode": "UA",
+			"currencyName": "Hryvnia",
+			"currencyCode": "UAH",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/UA.svg"
+		}
+	],
+	"AED": [
+		{
+			"countryName": "United Arab Emirates",
+			"countryCode": "AE",
+			"currencyName": "Dirham",
+			"currencyCode": "AED",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/AE.svg"
+		}
+	],
+	"UYU": [
+		{
+			"countryName": "Uruguay",
+			"countryCode": "UY",
+			"currencyName": "Peso",
+			"currencyCode": "UYU",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/UY.svg"
+		}
+	],
+	"UZS": [
+		{
+			"countryName": "Uzbekistan",
+			"countryCode": "UZ",
+			"currencyName": "Som",
+			"currencyCode": "UZS",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/UZ.svg"
+		}
+	],
+	"VUV": [
+		{
+			"countryName": "Vanuatu",
+			"countryCode": "VU",
+			"currencyName": "Vatu",
+			"currencyCode": "VUV",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/VU.svg"
+		}
+	],
+	"VEF": [
+		{
+			"countryName": "Venezuela",
+			"countryCode": "VE",
+			"currencyName": "Bolivar",
+			"currencyCode": "VEF",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/VE.svg"
+		}
+	],
+	"VND": [
+		{
+			"countryName": "Vietnam",
+			"countryCode": "VN",
+			"currencyName": "Dong",
+			"currencyCode": "VND",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/VN.svg"
+		}
+	],
+	"YER": [
+		{
+			"countryName": "Yemen",
+			"countryCode": "YE",
+			"currencyName": "Rial",
+			"currencyCode": "YER",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/YE.svg"
+		}
+	],
+	"ZMK": [
+		{
+			"countryName": "Zambia",
+			"countryCode": "ZM",
+			"currencyName": "Kwacha",
+			"currencyCode": "ZMK",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/ZM.svg"
+		}
+	],
+	"ZWD": [
+		{
+			"countryName": "Zimbabwe",
+			"countryCode": "ZW",
+			"currencyName": "Zimbabwe Dollar",
+			"currencyCode": "ZWD",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/ZW.svg"
+		}
+	],
+	"AOA": [
+		{
+			"countryName": "Angola",
+			"countryCode": "AO",
+			"currencyName": "Angolan kwanza",
+			"currencyCode": "AOA",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/AO.svg"
+		}
+	],
+	"AQD": [
+		{
+			"countryName": "Antarctica",
+			"countryCode": "AQ",
+			"currencyName": "Antarctican dollar",
+			"currencyCode": "AQD",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/AQ.svg"
+		}
+	],
+	"BAM": [
+		{
+			"countryName": "Bosnia and Herzegovina",
+			"countryCode": "BA",
+			"currencyName": "Bosnia and Herzegovina convertible mark",
+			"currencyCode": "BAM",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/BA.svg"
+		}
+	],
+	"GHS": [
+		{
+			"countryName": "Ghana",
+			"countryCode": "GH",
+			"currencyName": "Ghana cedi",
+			"currencyCode": "GHS",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/GH.svg"
+		}
+	],
+	"GGP": [
+		{
+			"countryName": "Guernsey",
+			"countryCode": "GG",
+			"currencyName": "Guernsey pound",
+			"currencyCode": "GGP",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/GG.svg"
+		}
+	],
+	"RSD": [
+		{
+			"countryName": "Serbia",
+			"countryCode": "RS",
+			"currencyName": "Serbian dinar",
+			"currencyCode": "RSD",
+			"countryFlag": "http://purecatamphetamine.github.io/country-flag-icons/3x2/RS.svg"
+		}
+	]
+}
+

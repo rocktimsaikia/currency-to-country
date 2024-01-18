@@ -1,19 +1,68 @@
-# my-ts-lib
+# currency-to-country
 
-<!-- NOTE: Change package name here -->
+Get country information via currency code
 
-[![npm](https://img.shields.io/npm/v/pretty-nums?color=bright)](https://npmjs.com/package/pretty-nums)
+> :sparkles: Zero dependency package
+
+[![npm](https://img.shields.io/npm/v/currency-to-country?color=bright)](https://npmjs.com/package/currency-to-country)
 
 ## Installtion
 
 ```sh
-npm install pretty-nums
+pnpm add currency-to-country
 ```
 
 ## Usage
 
+```javascript
+import getCountryByCurrency from 'currency-to-country';
+
+// Just pass the currency code as argument
+const countries = getCountryByCurrency('NZD');
+
+console.log(countries);
+```
+
+Outputs:
+
 ```sh
-# Show usage here
+[
+  {
+    countryName: 'New Zealand',
+    countryCode: 'NZ',
+    currencyName: 'New Zealand Dollars',
+    currencyCode: 'NZD',
+    countryFlag: 'http://purecatamphetamine.github.io/country-flag-icons/3x2/NZ.svg'
+  },
+  {
+    countryName: 'Cook Islands',
+    countryCode: 'CK',
+    currencyName: 'New Zealand Dollars',
+    currencyCode: 'NZD',
+    countryFlag: 'http://purecatamphetamine.github.io/country-flag-icons/3x2/CK.svg'
+  },
+  {
+    countryName: 'Niue',
+    countryCode: 'NU',
+    currencyName: 'New Zealand Dollars',
+    currencyCode: 'NZD',
+    countryFlag: 'http://purecatamphetamine.github.io/country-flag-icons/3x2/NU.svg'
+  },
+  {
+    countryName: 'Pitcairn',
+    countryCode: 'PN',
+    currencyName: 'New Zealand Dollars',
+    currencyCode: 'NZD',
+    countryFlag: 'http://purecatamphetamine.github.io/country-flag-icons/3x2/PN.svg'
+  },
+  {
+    countryName: 'Tokelau',
+    countryCode: 'TK',
+    currencyName: 'New Zealand Dollars',
+    currencyCode: 'NZD',
+    countryFlag: 'http://purecatamphetamine.github.io/country-flag-icons/3x2/TK.svg'
+  }
+]
 ```
 
 ## License
