@@ -14,10 +14,11 @@ pnpm add currency-to-country
 
 ## Usage
 
+#### 1. Get a list of countries that uses a specific currency.
+
 ```javascript
 import getCountryByCurrency from 'currency-to-country';
 
-// Just pass the currency code as argument
 const countries = getCountryByCurrency('NZD');
 
 console.log(countries);
@@ -28,18 +29,18 @@ Outputs:
 ```sh
 [
   {
-    countryName: 'New Zealand',
-    countryCode: 'NZ',
-    currencyName: 'New Zealand Dollars',
-    currencyCode: 'NZD',
-    countryFlag: 'https://purecatamphetamine.github.io/country-flag-icons/3x2/NZ.svg'
-  },
-  {
     countryName: 'Cook Islands',
     countryCode: 'CK',
     currencyName: 'New Zealand Dollars',
     currencyCode: 'NZD',
     countryFlag: 'https://purecatamphetamine.github.io/country-flag-icons/3x2/CK.svg'
+  },
+  {
+    countryName: 'New Zealand',
+    countryCode: 'NZ',
+    currencyName: 'New Zealand Dollars',
+    currencyCode: 'NZD',
+    countryFlag: 'https://purecatamphetamine.github.io/country-flag-icons/3x2/NZ.svg'
   },
   {
     countryName: 'Niue',
@@ -63,6 +64,33 @@ Outputs:
     countryFlag: 'https://purecatamphetamine.github.io/country-flag-icons/3x2/TK.svg'
   }
 ]
+```
+
+#### 2. Get only one country for one currency
+
+This is filtered by passing one of the country codes of the corresponding currency into the `priority_countries` option.
+
+```javascript
+import getCountryByCurrency from 'currency-to-country';
+
+// Now this will only return `New Zealand` as it has been
+// prioriotized over the other countries for the given currency.
+const country = getCountryByCurrency('NZD', { priorityCountries: ['NZ'] });
+
+// This will still return an array but with a single item
+console.log(country[0]);
+```
+
+Outputs:
+
+```sh
+{
+    countryName: 'New Zealand',
+    countryCode: 'NZ',
+    currencyName: 'New Zealand Dollars',
+    currencyCode: 'NZD',
+    countryFlag: 'https://purecatamphetamine.github.io/country-flag-icons/3x2/NZ.svg'
+}
 ```
 
 > :bulb: The country flags are comming from [@purecatamphetamine/country-flag-icons](https://github.com/purecatamphetamine/country-flag-icons)

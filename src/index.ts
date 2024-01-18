@@ -12,11 +12,23 @@ export interface CurrencyCountryMap {
 	[key: string]: Country[];
 }
 
-export default function getCountryByCurrency(currency: string): Country[] {
+interface Options {
+	priorityCountries?: string[];
+}
+
+export default function getCountryByCurrency(
+	currency: string,
+	options: Options = {}
+): Country[] {
 	const currencyToCountryMap: CurrencyCountryMap = CURRENCY_TO_COUNTRY_MAP;
 	currency = currency.toUpperCase();
 	if (!Object.prototype.hasOwnProperty.call(CURRENCY_TO_COUNTRY_MAP, currency)) {
 		throw new Error(`${currency} is not a valid currency`);
+	}
+	if (options.priorityCountries && options.priorityCountries.length > 0) {
+		return currencyToCountryMap[currency].filter((c) =>
+			options.priorityCountries?.includes(c.countryCode)
+		);
 	}
 	return currencyToCountryMap[currency];
 }
