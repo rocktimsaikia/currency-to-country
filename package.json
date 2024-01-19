@@ -17,7 +17,7 @@
 	"funding": "https://github.com/sponsors/rocktimsaikia",
 	"repository": "rocktimsaikia/currency-to-country",
 	"scripts": {
-		"build": "rm -rf dist && tsup src/index.ts --dts --format esm,cjs",
+		"build": "tsup",
 		"test": "pnpm build && ava",
 		"release": "pnpm test && np --no-tests",
 		"scripts:map": "tsx src/mapper",
@@ -41,5 +41,17 @@
 		"country",
 		"currency-to-country-mapping"
 	],
-	"prettier": "@rocktimsaikia/prettier-config"
+	"prettier": "@rocktimsaikia/prettier-config",
+	"tsup": {
+		"entry": [
+			"src/index.ts"
+		],
+		"format": [
+			"cjs",
+			"esm"
+		],
+		"minify": true,
+		"clean": true,
+		"dts": true
+	}
 }
