@@ -1,7 +1,7 @@
 {
 	"name": "currency-to-country",
 	"description": "Get country information via currency code",
-	"version": "0.0.2",
+	"version": "0.1.0",
 	"main": "dist/index.js",
 	"types": "dist/index.d.ts",
 	"type": "module",
