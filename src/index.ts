@@ -25,10 +25,17 @@ export default function getCountryByCurrency(
 	if (!Object.prototype.hasOwnProperty.call(CURRENCY_TO_COUNTRY_MAP, currency)) {
 		throw new Error(`${currency} is not a valid currency`);
 	}
+
+	let countries: Country[] = [];
 	if (options.priorityCountries && options.priorityCountries.length > 0) {
-		return currencyToCountryMap[currency].filter((c) =>
+		countries = currencyToCountryMap[currency].filter((c) =>
 			options.priorityCountries?.includes(c.countryCode)
 		);
 	}
+
+	if (countries?.length == 1) {
+		return countries;
+	}
+
 	return currencyToCountryMap[currency];
 }

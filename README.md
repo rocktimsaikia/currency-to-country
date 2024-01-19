@@ -68,7 +68,7 @@ Outputs:
 
 #### 2. Get only one country for one currency
 
-This is filtered by passing one of the country codes of the corresponding currency into the `priority_countries` option.
+This is filtered by passing one of the country codes of the given currency into the `priorityCountries` option. You can basically pass a list of any country codes in this and if the currency matches with one of these countries; it will prioritize and return that country only. If all the country codes you passed does not match with the countries mapped to that currency, the package will simply return all the original countries that's mapped to the currency.
 
 ```javascript
 import getCountryByCurrency from 'currency-to-country';

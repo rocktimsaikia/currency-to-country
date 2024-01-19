@@ -1,7 +1,7 @@
 import test from 'ava';
 import getCountryByCurrency from '../dist/index.js';
 
-test('Get correct country details', (t) => {
+test('Get correct country details.', (t) => {
 	const countries = getCountryByCurrency('USD');
 	t.truthy(countries.length > 1);
 
@@ -14,12 +14,12 @@ test('Get correct country details', (t) => {
 	});
 });
 
-test('Fail when Country code is passed instead of Currency code', (t) => {
+test('Fail when Country code is passed instead of Currency code.', (t) => {
 	const error = t.throws(() => getCountryByCurrency('USA'));
 	t.is(error.message, 'USA is not a valid currency');
 });
 
-test('Get a single country for a currency with pririoty_countries', (t) => {
+test('Get a single country for a currency with pririoty_countries.', (t) => {
 	let country = getCountryByCurrency('USD', { priorityCountries: ['US'] });
 	t.is(country.length, 1);
 	t.is(country[0].countryCode, 'US');
@@ -31,3 +31,12 @@ test('Get a single country for a currency with pririoty_countries', (t) => {
 	t.truthy(country[0].countryCode == 'IN');
 	t.truthy(country[0].countryFlag.includes('IN.svg'));
 });
+
+test("Get all the mapped countries if `priorityCountries` country codes does not match with the countries mapped with the given currency code.", t => {
+	let country = getCountryByCurrency('BDT', { priorityCountries: ['IN'] });
+	t.is(country.length, 1)
+	t.is(country[0].countryCode, 'BD')
+	t.is(country[0].countryName, 'Bangladesh')
+	t.is(country[0].currencyName, 'Taka')
+	t.truthy(country[0].countryFlag.includes('BD.svg'))
+})
