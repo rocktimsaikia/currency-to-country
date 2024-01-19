@@ -93,6 +93,8 @@ Outputs:
 }
 ```
 
+<br/>
+
 > :bulb: The country flags are comming from [@purecatamphetamine/country-flag-icons](https://github.com/purecatamphetamine/country-flag-icons)
 
 ## License

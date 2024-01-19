@@ -21,7 +21,7 @@
 		"test": "pnpm build && ava",
 		"release": "pnpm test && np --no-tests",
 		"scripts:map": "tsx src/mapper",
-		"examples:run": "tsx examples/index.ts"
+		"examples:run": "for file in examples/*.ts; do tsx \"$file\"; done"
 	},
 	"devDependencies": {
 		"@rocktimsaikia/prettier-config": "^1.0.4",
